@@ -6,4 +6,5 @@ The problem I had is described here:
 
 https://superuser.com/questions/1814515/mongodb-error-failed-with-result-core-dump
 
-The assignment never explicitly stated that I had to use the VM.
+I tried doing it on my local machine, but mongodb isn't working properly. I don't know why. I'm at my mental limit so im done.
+
